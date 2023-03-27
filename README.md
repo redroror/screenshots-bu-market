@@ -75,32 +75,18 @@ DB_PASSWORD=
 php artisan serve
 ```
 4. Visit http://127.0.0.1:8000/
-5. By following the link provided, you will be redirected to the landing page. To access the admin panel, use the login credintials below:
+5. By following the link provided, you will be redirected to the landing page. To access the admin panel, use the login credentials below:
 - Email: admin@gmail.com
 - Password: 12345678
 
-If you're interested in using our platform as a registered user, you can create an account by clicking the 'Register' on the navigation bar. 
+If you're interested in using our platform as a registered user, you can create an account by clicking the 'Register' on the navigation bar. Or use the login credentials provided below: 
+- Email: testone@gmail.com
+- Password: 12345678
 
-6. To access the seller's panel, you must create an organization first by navigating to the admin's panel. 
+6. To access the seller's panel, you may use the login credentials below: 
+- Email: buss@gmail.com
+- Password: password
 
-![Admin Panel](https://github.com/redroror/screenshots-bu-market/blob/7e90ae8486360872196dbd3464e8e71e53b43032/Admin%20Panel.png)
-![Admin Panel](https://github.com/redroror/screenshots-bu-market/blob/ed4d45a4751cd22968d9e158a5be597c349d1de5/Add%20Org.png)
-1. Clicking the List of Organizations in the Organization sidebar will display all the
-Organizations in the system regardless whether they are active or inactive.
-2. Clicking the “Add Organization” button will popup a modal form for adding
-another organization.
-3. Clicking the “Export to PDF” will export all organizations that are currently on the
-system regardless whether they are active or not.
-4. Clicking the “view” button will allow the admin to view the organization’s
-information.
-5. Clicking the “Edit” button will allow the admin to edit the organization’s name and
-status.
-
-![Admin Panel](https://github.com/redroror/screenshots-bu-market/blob/4442f8a4453f3f02d6649618f0367777ef5b0e63/Add%20Org%202.png)
-1. When adding a new organization the admin must choose the appropriate Organization Category for the organization.
-2. Input the Organization name.
-3. Input the organization’s date of accreditation.
-4. Clicking the “close” button will close the modal while clicking the “save” button will save the organization in the system.
 ## Screenshots
 
 
