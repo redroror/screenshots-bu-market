@@ -50,7 +50,7 @@ Guest
 - Download the file or source code 
 ## Installation
 
-1. Download the file/system first. 
+1. Download the file/system first. Make sure to include the database or sql file as well. 
 
 2. Navigate to the root directory and install dependencies:
 ```bash
@@ -60,7 +60,8 @@ Guest
 
     
 ## Usage
-1. Find the .env file and configure environment variable
+1. Create a database and import the sql file included in the zip file. 
+2. Find the .env file and configure environment variables
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -69,13 +70,13 @@ DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
 ```
-2. Open XAMPP and start Apache and MySQL
-3. Start the server
+3. Open XAMPP and start Apache and MySQL
+4. Start the server
 ```
 php artisan serve
 ```
-4. Visit http://127.0.0.1:8000/
-5. By following the link provided, you will be redirected to the landing page. To access the admin panel, use the login credentials below:
+5. Visit http://127.0.0.1:8000/
+6. By following the link provided, you will be redirected to the landing page. To access the admin panel, use the login credentials below:
 - Email: admin@gmail.com
 - Password: 12345678
 
@@ -83,7 +84,7 @@ If you're interested in using our platform as a registered user, you can create 
 - Email: testone@gmail.com
 - Password: 12345678
 
-6. To access the seller's panel, you may use the login credentials below: 
+7. To access the seller's panel, you may use the login credentials below: 
 - Email: buss@gmail.com
 - Password: password
 
