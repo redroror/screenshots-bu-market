@@ -2,6 +2,13 @@
 # BU-Market 
 
 BU-Market is a web-based platform that centralizes merchandise being sold by accredited/re-accredited organizations in Bicol University. 
+
+Our project was developed using Laravel, a popular PHP framework known for its powerful features and ease of use. Laravel provides a wide range of tools and components that make it easier to build robust, scalable web applications quickly and efficiently. 
+
+To create a responsive and modern user interface for our application, we made use of Bootstrap, a popular CSS framework that provides a wide range of tools and components for frontend development. 
+
+To handle payments within our application, we made use of Adyen's GCash API, which allowed users to securely and conveniently pay for our service using their mobile wallets. During the development process, we were only able to integrate the GCash API using a test account. This allowed us to test the payment functionality in a simulated environment, without actually processing any real payments or transactions.
+
 ## Features
 
 System Administrator
