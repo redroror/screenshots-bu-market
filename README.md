@@ -88,6 +88,11 @@ If you're interested in using our platform as a registered user, you can create 
 - Password: password
 
 ## Screenshots
-
-
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/0bc9f48b82971e4912e3e3991bd4100fe02375fb/Landing%20Page.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/Profile.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/Products.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/PRoduct%20View.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/Cart.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/Checkout%20Page.png)
+![App Screenshot](https://github.com/redroror/screenshots-bu-market/blob/main/Order%20Page.png)
 
